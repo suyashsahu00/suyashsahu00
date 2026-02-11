@@ -47,10 +47,9 @@
 
 ## 🎓 Scrimba Courses I've Completed
 
+[![Certificate](https://img.shields.io/badge/Learn%20HTML%20and%20CSS-1E3A8A)](https://scrimba.com/learn-html-and-css-c0p?via=u42ff4fa)
 [![Certificate](https://img.shields.io/badge/Learn%20JavaScript-F7DF1E)](https://scrimba.com/learn-javascript-c0v?via=u42ff4fa)
 [![Certificate](https://img.shields.io/badge/Frontend%20Developer%20Path-8022FF)](https://scrimba.com/learn-frontend?via=u42ff4fa)
-
-*Update these with your actual completed courses!*
 
 ---
 
