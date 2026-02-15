@@ -4,7 +4,7 @@
 
 - 🎨 **What I care about:** Clean code, algorithmic efficiency, and continuous learning through platforms like Scrimba, freeCodeCamp, and guidance from in-person mentors for web development and DSA
 
-- 🧩 **Tech I'm using:** C++, JavaScript, Python, Java, React, Node.js, Git & GitHub
+- 🧩 **Tech I'm using:** C++, JavaScript, Python, React, Node.js, Git & GitHub
 
 - 🚀 **Fun fact:** I'm passionate about competitive programming and hackathons while diving deep into Machine Learning. Currently exploring how AI can solve real-world problems and preparing for a future in AI Engineering!
 
