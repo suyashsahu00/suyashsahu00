@@ -82,7 +82,7 @@ I'm a BTech CSE student from Raipur, Chhattisgarh, passionate about competitive 
 
 **Currently Reading:**
 
-- 🖤 **Have We Met** ~ A captivating story that keeps you turning the pages and questioning every twist
+- 🖤 **Have We Met** ~ SMILES, LOOKS AND TOUCHES DON'T MATTER, IT IS THE AFFECTION FOR EACH OTHER THAT MATTERS.
 
 - 🤖 **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow** by Aurélien Géron ~ The definitive guide to building intelligent systems with practical, hands-on examples
 
