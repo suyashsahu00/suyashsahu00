@@ -19,7 +19,7 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ### Connect with me
-[LinkedIn](https://linkedin.com/in/suyash-sahu-124908273/) • [GeeksforGeeks](https://www.geeksforgeeks.org/profile/suyashsyyyp) • [My Scrimba Profile](https://scrimba.com/?via=u42ff4fa) • [Portfolio](#)
+[LinkedIn](https://linkedin.com/in/suyash-sahu-124908273/) • [GeeksforGeeks](https://www.geeksforgeeks.org/profile/suyashsyyyp) • [LeetCode](https://leetcode.com/u/suyash_sahu/) • [My Scrimba Profile](https://scrimba.com/?via=u42ff4fa) • [Portfolio](#)
 
 [![20% Discount off Scrimba](https://i.ibb.co/HD3x73NB/scrimbassadors-cta.png)](https://scrimba.com/?via=u42ff4fa)
 
@@ -30,6 +30,18 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suyashsahu00&theme=tokyonight)](https://git.io/streak-stats)
 
 ![Suyash's GitHub stats](https://github-readme-stats.vercel.app/api?username=suyashsahu00&show_icons=true&theme=tokyonight)
+
+---
+
+## 🏅 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/suyash_sahu?theme=dark&font=Nunito&ext=heatmap)
+
+---
+
+## 🟢 GeeksforGeeks Stats
+
+[![GeeksForGeeks stats](https://gfgstatscard.vercel.app/suyashsyyyp)](https://www.geeksforgeeks.org/user/suyashsyyyp/)
 
 ---
 
