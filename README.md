@@ -50,6 +50,10 @@
 | <br>**[Scoreboard](https://github.com/suyashsahu00/Scoreboard)** 🏀<br><br>A dynamic scoreboard application for tracking game scores in real-time<br><br><sub>JavaScript • HTML • CSS</sub><br><br> | <br>**[Birthday Gift Site](https://github.com/suyashsahu00/birthday-gift-site)** 🎁<br><br>A personalized birthday gift website with interactive elements and animations<br><br><sub>HTML • CSS • JavaScript</sub><br><br> |
 | | |
 
+<p align="center">
+  <a href="https://github.com/suyashsahu00/my-projects"><b>📂 View All My Projects →</b></a>
+</p>
+
 ## 🎓 Scrimba Courses I've Completed
 
 [![Certificate](https://img.shields.io/badge/Learn%20HTML%20and%20CSS-1E3A8A)](https://scrimba.com/learn-html-and-css-c0p?via=u42ff4fa)
@@ -71,3 +75,15 @@ I'm a BTech CSE student from Raipur, Chhattisgarh, passionate about competitive 
 - 📚 Continuous learning through Scrimba, freeCodeCamp, and mentorship
 
 ![Profile Views](https://komarev.com/ghpvc/?username=suyashsahu00&color=blueviolet)
+
+---
+
+## 📚 Book Corner
+
+**Currently Reading:**
+
+- 🖤 **Have We Met** ~ A captivating story that keeps you turning the pages and questioning every twist
+
+- 🤖 **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow** by Aurélien Géron ~ The definitive guide to building intelligent systems with practical, hands-on examples
+
+View my [Reading Journal](https://github.com/suyashsahu00/reading-journal)
