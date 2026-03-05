@@ -87,3 +87,9 @@ I'm a BTech CSE student from Raipur, Chhattisgarh, passionate about competitive 
 - 🤖 **Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow** by Aurélien Géron ~ The definitive guide to building intelligent systems with practical, hands-on examples
 
 View my [Reading Journal](https://github.com/suyashsahu00/reading-journal)
+
+---
+
+<p align="center">
+  ✍️ I also write on Medium & Substack — reach out on LinkedIn to get the links.
+</p>
