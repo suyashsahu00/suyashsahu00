@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://suyashsahu00.github.io/signature-animation/signature.svg" alt="Suyash Sahu Signature" width="400"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=60&duration=3000&pause=1500&color=C2410C&center=true&vCenter=true&width=550&height=120&lines=Suyash+Sahu" alt="Suyash Sahu" />
 </p>
+
 
 # Hello, Universe! 👋 | Crafting code & solving puzzles 🚀
 
