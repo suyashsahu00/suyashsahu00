@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://suyashsahu00.github.io/signature-animation/signature.svg" alt="Suyash Sahu Signature" width="400"/>
+</p>
+
 # Hello, Universe! 👋 | Crafting code & solving puzzles 🚀
 
 - 🧠 **What I build:** Competitive programming solutions, scalable DSA implementations, and full-stack web apps with modern technologies
