@@ -30,7 +30,7 @@
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suyashsahu00&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=suyashsahu00&theme=tokyonight)](https://git.io/streak-stats)
 
 ![Suyash's GitHub stats](https://github-readme-stats.vercel.app/api?username=suyashsahu00&show_icons=true&theme=tokyonight)
 
