@@ -28,7 +28,7 @@
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=suyashsahu00&theme=tokyonight)](https://git.io/streak-stats)
+![GitHub Streak](./streak.svg)
 
 ![Suyash's GitHub stats](https://github-readme-stats.vercel.app/api?username=suyashsahu00&show_icons=true&theme=tokyonight)
 
@@ -74,7 +74,7 @@ I'm a BTech CSE student from Raipur, Chhattisgarh, passionate about competitive 
 - 🤖 Learning Machine Learning and exploring AI applications
 - 🔮 Preparing for a career in AI Engineering
 - 🏆 Competitive Programming & Hackathon participation
-- 📚 Continuous learning thro is ugh Scrimba, freeCodeCamp, and mentorship
+- 📚 Continuous learning through Scrimba, freeCodeCamp, and mentorship
 
 ![Profile Views](https://komarev.com/ghpvc/?username=suyashsahu00&color=blueviolet)
 
